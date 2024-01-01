@@ -10,3 +10,6 @@
 - [Relational Model Versus Document Model](foundations/data_models_query_languages/relational_document_models.md)
 - [Query Languages for Data](foundations/data_models_query_languages/query_languages.md)
 - [Graph-Like Data Models](foundations/data_models_query_languages/graph_models.md)
+
+### Storage and Retrieval
+- [Data Structures That Power Your Database](foundations/storage_retrieval/data_structures.md)
