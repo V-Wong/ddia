@@ -14,3 +14,4 @@
 ### Storage and Retrieval
 - [Data Structures That Power Your Database](foundations/storage_retrieval/data_structures.md)
 - [Transaction Processing or Analytics?](foundations/storage_retrieval/transaction_processing_analytics.md)
+- [Column-Oriented Storage](foundations/storage_retrieval/column_oriented_storage.md)
