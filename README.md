@@ -18,3 +18,4 @@
 
 ### Encoding and Evolution
 - [Formats for Encoding Data](foundations/encoding_evolution/formats.md)
+- [Modes of Dataflow](foundations/encoding_evolution/dataflow_modes.md)
