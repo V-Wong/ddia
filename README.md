@@ -19,3 +19,7 @@
 ### Encoding and Evolution
 - [Formats for Encoding Data](foundations/encoding_evolution/formats.md)
 - [Modes of Dataflow](foundations/encoding_evolution/dataflow_modes.md)
+
+## Part 2. Distributed Data
+### Replication
+- [Leaders and Followers](distributed_data/replication/leaders_followers.md)
