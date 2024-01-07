@@ -23,3 +23,4 @@
 ## Part 2. Distributed Data
 ### Replication
 - [Leaders and Followers](distributed_data/replication/leaders_followers.md)
+- [Problems with Replication Lag](distributed_data/replication/replication_lag.md)
