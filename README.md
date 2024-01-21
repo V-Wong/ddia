@@ -26,3 +26,6 @@
 - [Problems with Replication Lag](distributed_data/replication/replication_lag.md)
 - [Multi-Leader Replication](distributed_data/replication/multi_leader_replication.md)
 - [Leaderless Replication](distributed_data/replication/leaderless_replication.md)
+
+### Partitioning
+- [Partitioning and Replication](distributed_data/partitioning/partitioning_replication.md)
