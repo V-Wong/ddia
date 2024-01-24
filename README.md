@@ -29,3 +29,4 @@
 
 ### Partitioning
 - [Partitioning and Replication](distributed_data/partitioning/partitioning_replication.md)
+- [Partitioning of Key-Value Data](distributed_data/partitioning/key_value_data.md)
