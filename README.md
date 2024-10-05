@@ -31,3 +31,4 @@
 - [Partitioning and Replication](distributed_data/partitioning/partitioning_replication.md)
 - [Partitioning of Key-Value Data](distributed_data/partitioning/key_value_data.md)
 - [Partitioning and Secondary Indexes](distributed_data/partitioning/secondary_indexes.md)
+- [Rebalancing Partitions](distributed_data/partitioning/rebalancing.md)
