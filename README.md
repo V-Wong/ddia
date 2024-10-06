@@ -32,3 +32,4 @@
 - [Partitioning of Key-Value Data](distributed_data/partitioning/key_value_data.md)
 - [Partitioning and Secondary Indexes](distributed_data/partitioning/secondary_indexes.md)
 - [Rebalancing Partitions](distributed_data/partitioning/rebalancing.md)
+- [Request Routing](distributed_data/partitioning/request_routing.md)
