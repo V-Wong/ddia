@@ -33,3 +33,6 @@
 - [Partitioning and Secondary Indexes](distributed_data/partitioning/secondary_indexes.md)
 - [Rebalancing Partitions](distributed_data/partitioning/rebalancing.md)
 - [Request Routing](distributed_data/partitioning/request_routing.md)
+
+### Transactions
+- [The Slippery Concept of a Transaction](distributed_data/transactions/concept.md)
